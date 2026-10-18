@@ -1,0 +1,7 @@
+{
+  "name": "TUGAS2-CUACA-JAKARTA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
